@@ -92,13 +92,13 @@ function Volunteers() {
                 </div>
             </Navbar> */}
             <section id="volunteers">
-                <h1 className="section-heading">Volunteers of Mysuru  </h1>
+                <h1 className="section-heading">Volunteers of Travel India  </h1>
                 <div className="card-deck">
                     <div className="card">
                         <a href="#" className="card-link">
                             <img src={volunteer1} className="card-img-top" alt="volunteer" />
                             <div className="card-body">
-                                <h5 className="card-title">Snehasish Pati </h5>
+                                <h5 className="card-title">Arun Gehlot </h5>
                                 <p className="card-text">Ph: +91 811 344 5678 <br />volunteer@travelIndia.org</p>
                             </div>
                         </a>
@@ -107,7 +107,7 @@ function Volunteers() {
                         <a href="#" className="card-link">
                             <img src={volunteer2} className="card-img-top" alt="volunteer" />
                             <div className="card-body">
-                                <h5 className="card-title">Atman Das</h5>
+                                <h5 className="card-title">Prateek Mehta</h5>
                                 <p className="card-text">Ph: +91 811 344 5678 <br />volunteer@travelIndia.org</p>
                             </div>
                         </a>
@@ -116,7 +116,7 @@ function Volunteers() {
                         <a href="#" className="card-link">
                             <img src={volunteer3} className="card-img-top" alt="volunteer" />
                             <div className="card-body">
-                                <h5 className="card-title">Yashraj Jain </h5>
+                                <h5 className="card-title">Karan Jain </h5>
                                 <p className="card-text">Ph: +91 811 344 5678 <br />volunteer@travelIndia.org</p>
                             </div>
                         </a>
@@ -127,7 +127,7 @@ function Volunteers() {
                         <a href="#" className="card-link">
                             <img src={volunteer4} className="card-img-top" alt="volunteer" />
                             <div className="card-body">
-                                <h5 className="card-title"> Sara                                                        </h5>
+                                <h5 className="card-title"> Shirley Parwani                                                       </h5>
                                 <p className="card-text">Ph: +91 811 344 5678 <br />volunteer@travelIndia.org</p>
                             </div>
                         </a>
